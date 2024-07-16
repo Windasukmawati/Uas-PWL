@@ -1,0 +1,17 @@
+h1 {
+	font-family:arial;
+	font-size:15px;
+	color:darkred;
+}
+
+p {
+	font-family: verdana;
+	font-size: 10px;
+	color:red;
+}
+body {
+  background-color: lightgreen;
+}
+a {
+	color:blue;
+}
